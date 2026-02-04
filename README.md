@@ -2,7 +2,7 @@
 
 **[View live solution](https://nicozoid.github.io/article-preview-component)**
 
-This is a solution to a [challenge on Frontend Mentor]().
+This is a solution to a [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
 ### Learrnings
 - My first use of JavaScript!
