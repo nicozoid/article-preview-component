@@ -1,4 +1,4 @@
-# Meet landing page
+# article-preview-component
 
 **[View live solution](https://nicozoid.github.io/article-preview-component)**
 
@@ -22,4 +22,4 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 
 ### Questions
 Always interested in thoughts on whether there is a point in learning any this given the state of AI. I'm learning frontend coding in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though.# testimonials-grid-section
-# article-preview-component
+
